@@ -38,9 +38,9 @@
 
 ---
 
-[![masTechDeveloper Github Stats](https://github-readme-stats.vercel.app/api?username=masTechDeveloper&count_private=true&show_icons=true&theme=dark)](https://github.com/masTechDeveloper/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masTechDeveloper&layout=compact&theme=dark)](https://github.com/masTechDeveloper/masTechDeveloper)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masTechDeveloper&layout=compact)](https://github.com/masTechDeveloper/masTechDeveloper)
+[![masTechDeveloper Github Stats](https://github-readme-stats.vercel.app/api?username=masTechDeveloper&count_private=true&show_icons=true&theme=dark)](https://github.com/masTechDeveloper/masTechDeveloper)
 
 [website]: https://corecis.org/
 [twitter]: https://twitter.com/Muhammad_ashir1
