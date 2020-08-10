@@ -40,7 +40,7 @@
 
 ---
 
-[![masTechDeveloper Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![masTechDeveloper Github Stats](https://github-readme-stats.vercel.app/api?username=masTechDeveloper)](https://github.com/masTechDeveloper/github-readme-stats)
 
 [website]: https://corecis.org/
 [twitter]: https://twitter.com/Muhammad_ashir1
