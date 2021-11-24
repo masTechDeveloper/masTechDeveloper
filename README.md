@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a [Corecis][website]!
 - 🌱 I’m currently learning [Blockchain Development][website]!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
@@ -42,7 +42,7 @@
 
 [![masTechDeveloper Github Stats](https://github-readme-stats.vercel.app/api?username=masTechDeveloper&count_private=true&show_icons=true&theme=dark)](https://github.com/masTechDeveloper/masTechDeveloper)
 
-[website]: https://corecis.org/
+[website]: https://www.corecis.org
 [twitter]: https://twitter.com/Muhammad_ashir1
 [youtube]: https://www.youtube.com/masTechDeveloper
 [instagram]: https://www.instagram.com/invites/contact/?i=1butnyfkbzct0&utm_content=z92jjj
