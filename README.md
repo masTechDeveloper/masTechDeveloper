@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a [Corecis][website]!
 - 🌱 I’m currently learning [Blockchain Development][website]!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
