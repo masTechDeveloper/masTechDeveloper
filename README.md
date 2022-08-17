@@ -1,6 +1,6 @@
 ### Hi, I'm Muhammad Ashir Ansari. 👋
 
-## I'm a Full Stack Blockchain Developer.
+## I'm a Full Stack Web & Blockchain Developer.
 
 - 🔭 I’m currently working on [Corecis][website]!
 - 🌱 I’m constantly learning Ethereum, Ethereum 2.0, Solana, and Polkadot.
