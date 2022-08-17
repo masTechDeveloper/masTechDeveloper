@@ -1,9 +1,11 @@
 ### Hi, I'm Muhammad Ashir Ansari. 👋
 
-- 🔭 I’m currently working on a [Corecis][website]!
-- 🌱 I’m currently learning [Blockchain Development][website]!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+## I'm a Full Stack Blockchain Developer.
+
+- 🔭 I’m currently working on [Corecis][website]!
+- 🌱 I’m constantly learning Ethereum, Ethereum 2.0, Solana, and Polkadot.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Learn Metaverse and 3D Gaming, also Contribute to Open Source projects.
 
 ### Connect with me:
 
@@ -46,4 +48,4 @@
 [twitter]: https://twitter.com/Muhammad_ashir1
 [youtube]: https://www.youtube.com/masTechDeveloper
 [instagram]: https://www.instagram.com/invites/contact/?i=1butnyfkbzct0&utm_content=z92jjj
-[linkedin]: https://www.linkedin.com/in/muhammad-ashir-ansari-231a52191/
+[linkedin]: https://www.linkedin.com/in/muhammad-ashir-ansari/
